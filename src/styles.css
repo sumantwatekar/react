@@ -1,0 +1,47 @@
+.app-header {
+height: 150px;
+width: 100%;
+background-color: yellow;
+}
+
+.main{
+
+	width: 75%;
+}
+
+.nav{
+
+	width: 25%;
+	background-color: white;
+}
+
+.footer{
+
+	height: 150px;
+	width: 100%;
+	background-color: red;
+}
+
+.blog-card{
+
+	padding: 20px;
+	border-radius: 15px;
+	margin: 10px;
+	background-color: green;
+	text-align: center;
+}
+
+.blog-card-title{
+
+	font-size: large;
+	font-weight: bold;
+}
+
+.blog-card-subtitle{
+	font-weight: 650;
+	font-size: small;
+}
+
+.blog-card-text{
+	font-size: medium;
+}
