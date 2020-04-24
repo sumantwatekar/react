@@ -1,0 +1,1 @@
+Before starting the app, install npm
